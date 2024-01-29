@@ -1,0 +1,5 @@
+gtts==2.2.2
+speechrecognition==3.8.1
+pygame==2.0.1
+pywhatkit==5.1
+beautifulsoup4==4.10.0
